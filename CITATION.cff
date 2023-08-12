@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: gas-network-opti-padm
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Richard
+    family-names: Krug
+    email: richard.krug@fau.de
+    affiliation: FAU Erlangen-Nürnberg
+  - given-names: Dieter
+    family-names: Weninger
+    affiliation: FAU Erlangen-Nürnberg
+repository-code: 'https://github.com/RichardKrug/gas-network-opti-padm'
+license: MIT
